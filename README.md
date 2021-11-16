@@ -1,4 +1,4 @@
-# Supplementary for publication in Sains Malaysiana
+# Supplementary for publication in Medicine & Health
 
 This repository contains:
 1) R script - analysis code
